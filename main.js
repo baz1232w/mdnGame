@@ -1,4 +1,4 @@
-
+alert('это небольшая игра, где нужно словить все шары, управление стрелочками')
 
 const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
